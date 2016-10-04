@@ -15,14 +15,14 @@ namespace Asp.NetMvc5ConceitosBasicos.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Descreva sua aplicação.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Contato da sua página.";
 
             return View();
         }

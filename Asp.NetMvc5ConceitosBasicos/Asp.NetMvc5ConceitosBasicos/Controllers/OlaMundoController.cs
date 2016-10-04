@@ -9,9 +9,14 @@ namespace Asp.NetMvc5ConceitosBasicos.Controllers
     public class OlaMundoController : Controller
     {
         // GET: OlaMundo
-        public string Index()
+        //public string Index()
+        //{
+        //    return "Olá MVC 5";
+        //}
+
+        public ActionResult Index()
         {
-            return "Olá MVC 5";
+            return View();
         }
 
         // GET: OlaMundo/QueridoController
@@ -40,5 +45,7 @@ namespace Asp.NetMvc5ConceitosBasicos.Controllers
                 string.Format("Bem vindo {0} com idade {1}",
                                     nome, idade));
         }
+
+       
     }
 }

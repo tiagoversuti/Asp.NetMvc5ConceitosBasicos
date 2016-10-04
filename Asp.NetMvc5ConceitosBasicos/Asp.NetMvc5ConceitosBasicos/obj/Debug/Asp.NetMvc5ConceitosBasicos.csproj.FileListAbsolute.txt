@@ -80,9 +80,6 @@ C:\Users\Dev\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasico
 C:\Users\Dev\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.csprojResolveAssemblyReference.cache
 C:\Users\Dev\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.dll
 C:\Users\Dev\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.pdb
-C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.csprojResolveAssemblyReference.cache
-C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.dll
-C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.pdb
 C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\bin\ApplicationInsights.config
 C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\bin\roslyn\csc.exe
 C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -162,3 +159,6 @@ C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasi
 C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.dll
+C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.pdb
+C:\Users\tiago\Source\Repos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\Asp.NetMvc5ConceitosBasicos\obj\Debug\Asp.NetMvc5ConceitosBasicos.csprojResolveAssemblyReference.cache
